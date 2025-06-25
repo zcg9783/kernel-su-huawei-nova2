@@ -1,5 +1,6 @@
 # *Kernel SU for Huawei nova 2*
 
+
 ## Note
 You should install the latest KernelSU manager [CI](https://github.com/tiann/KernelSU/actions/workflows/build-manager.yml) or [Release](https://github.com/tiann/KernelSU/releases).
 
